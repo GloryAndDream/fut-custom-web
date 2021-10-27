@@ -1,2 +1,2 @@
 # fut-custom-web
-A web Vue framework for FUT custom service
+A  Web Vue framework for FUT custom service
